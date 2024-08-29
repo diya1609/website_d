@@ -37,7 +37,7 @@ const Cards = () => {
               needs of your audience early and often.
             </h5>
           </div>
-          <a href="#" className="text-blue-500 font-medium mr-10">
+          <a href="/" className="text-blue-500 font-medium mr-10">
             See all
           </a>
         </div>

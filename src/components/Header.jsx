@@ -6,7 +6,7 @@ const Header = () => {
       <header className="fixed top-0 left-0 z-50 w-full bg-white shadow-md text-slate-700 px-4 py-4 lg:px-8">
         <div className="container mx-auto flex flex-col lg:flex-row lg:items-center">
           <a
-            href="#"
+            href="/"
             className="flex items-center text-xl font-semibold text-purple-700"
           >
             <span>ShopDigest</span>
@@ -58,7 +58,7 @@ const Header = () => {
               <li className="lg:mr-12">
                 <a
                   className="rounded text-gray-700 transition focus:outline-none focus:ring-1 focus:ring-purple-700 focus:ring-offset-2"
-                  href="#"
+                  href="/"
                 >
                   Features
                 </a>
@@ -66,7 +66,7 @@ const Header = () => {
               <li className="lg:mr-12">
                 <a
                   className="rounded text-gray-700 transition focus:outline-none focus:ring-1 focus:ring-purple-700 focus:ring-offset-2"
-                  href="#"
+                  href="/"
                 >
                   Marketplace
                 </a>
@@ -74,7 +74,7 @@ const Header = () => {
               <li className="lg:mr-12">
                 <a
                   className="rounded text-gray-700 transition focus:outline-none focus:ring-1 focus:ring-purple-700 focus:ring-offset-2"
-                  href="#"
+                  href="/"
                 >
                   Company
                 </a>
@@ -83,7 +83,7 @@ const Header = () => {
               <li className="lg:mr-12">
                 <a
                   className="rounded text-gray-700 transition focus:outline-none focus:ring-1 focus:ring-purple-700 focus:ring-offset-2"
-                  href="#"
+                  href="/"
                 >
                   Team
                 </a>
@@ -91,7 +91,7 @@ const Header = () => {
               <li className="lg:mr-12">
                 <a
                   className="rounded text-gray-700 transition focus:outline-none focus:ring-1 focus:ring-purple-700 focus:ring-offset-2"
-                  href="#"
+                  href="/"
                 >
                   Contact
                 </a>
@@ -100,14 +100,14 @@ const Header = () => {
             <hr className="mt-4 w-full lg:hidden" />
             <div className="my-4 flex items-center space-x-6 space-y-2 lg:my-0 lg:ml-auto lg:space-x-8 lg:space-y-0">
               <a
-                href="#"
+                href="/"
                 title="Log in"
                 className="whitespace-nowrap rounded-xl border border-purple-700 text-purple-700 font-medium transition-all duration-200 focus:outline-none focus:ring-1 focus:ring-purple-700 focus:ring-offset-2 hover:text-opacity-50 px-6 py-1"
               >
                 Log in
               </a>
               <a
-                href="#"
+                href="/"
                 title="Post"
                 className="whitespace-nowrap rounded-xl bg-purple-700 text-white font-medium transition-all duration-200 focus:outline-none focus:ring-1 focus:ring-purple-700 focus:ring-offset-2 hover:bg-purple-800 px-6 py-1 flex items-center"
               >
